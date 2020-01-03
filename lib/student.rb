@@ -1,9 +1,7 @@
 class Student 
-  
-  attr_accessor :student 
 
   def hello
-     return "Hey there! I'm so excited to learn stuff."  
+     "Hey there! I'm so excited to learn stuff."  
   end 
   
   def raise_hand
